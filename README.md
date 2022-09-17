@@ -1,4 +1,4 @@
-# spirit8
+# Spirit8-maket
 My first html file created by HTML & CSS in 2019th when i become to learn IT 
 
 
