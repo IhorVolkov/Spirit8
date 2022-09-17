@@ -3,7 +3,7 @@ My first html file created by HTML & CSS in 2019th when i become to learn IT
 
 
 
- https://ihorvolkov.github.io/spirit8/homepage-new.html
+ https://ihorvolkov.github.io/Spirit8/
 
 
 P.S.
